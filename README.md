@@ -11,7 +11,7 @@ Tested only with **Cursor 1.4** on **Ubuntu Desktop 25**.
 Run directly with:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/phungtd/cursor-ubuntu/refs/heads/main/install.sh | sh
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/phungtd/cursor-ubuntu/main/install.sh)"
 ````
 
 ### ⚠️ Disclaimer
